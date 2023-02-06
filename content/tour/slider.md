@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: The most liberal and enthusiastic research group
+    - title: The most liberal and enthusiastic group
       content: 'Obviously, our group is still at an initial stage where we can only produce simple models and publish simple journal and conference papers. However, we will keep our hobby of AI alive and well. Whether you are an expert, a student, or even an amateur, we look forward to talking with you!'
       align: right
       background:
