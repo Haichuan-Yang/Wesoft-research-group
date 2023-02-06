@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 interests:
   - Artificial intelligence
   - Time series prediction
-  - Differential evolutionary algorithms
+  - Differential evolution
   - Economics
   - Marketing
 social:
