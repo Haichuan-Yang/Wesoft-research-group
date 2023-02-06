@@ -24,6 +24,8 @@ social:
 organizations:
   - name: Tohoku University
     url: https://www.tohoku.ac.jp/en/
+  - name: Wesoft Company Ltd.
+    url: https://wesoft.co.jp/
 education:
   courses:
     - course: PhD in Mathematical and Human System Sciences
