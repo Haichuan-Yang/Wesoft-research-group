@@ -8,6 +8,9 @@ social:
     link: "mailto:"
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: Wesoft Company Ltd.
+    url: https://wesoft.co.jp/
 superuser: false
 user_groups:
   - Partners
