@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:li.xiaosi@agving.com
 education:
   courses:
     - course: PhD in Mathematical and Human System Sciences
