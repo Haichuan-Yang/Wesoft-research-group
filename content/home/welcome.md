@@ -3,7 +3,7 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: Wesoft  Research Group
+title: WeAI  Research Group
 hero_media: welcome.jpg
 design:
   columns: "1"
