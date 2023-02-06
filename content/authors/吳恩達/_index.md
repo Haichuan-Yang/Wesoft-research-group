@@ -30,6 +30,5 @@ education:
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 ---
 Xiaosi Li (Member, IEEE) received the B.S. degree from Southeast University, Nanjing, China, and the D.E. degree from the University of Toyama, Toyama, Japan. He is currently working as a Chief System Engineer with Wesoft Company Ltd., Kawasaki, Japan. His current research interests include computational intelligence, data mining, mobile computing, machine learning, and neural networks for real-world applications.
