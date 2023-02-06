@@ -18,6 +18,8 @@ social:
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
     url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
+  - name: Wesoft Company Ltd.
+    url: https://wesoft.co.jp/
 education:
   courses:
     - institution: University of Toyama
