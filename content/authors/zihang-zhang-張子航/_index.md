@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: mailto:m13377973170@gmail.com
     icon_pack: fas
     icon: envelope
 organizations:
@@ -20,7 +20,11 @@ education:
     - course: MEng in Intelligent Information Engineering
       institution: University of Toyama
       year: 2023
+    - institution: Wuhan Institute Of Technology
+      course: B.E. degree
+      year: 2020
 superuser: false
 user_groups:
   - Researchers
 ---
+Zihang Zhang received his B.E. degree from Wuhan Institute Of Technology, Wuhan, China in 2020, and the D.E. degree from the University of Toyama, Toyama, Japan in 2023. His current research interests are computational intelligence, neural networks and renewable energy.
