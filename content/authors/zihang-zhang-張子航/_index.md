@@ -1,7 +1,7 @@
 ---
 title: Zihang Zhang 張子航
 role: MEng in Intelligent Information Engineering
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 interests:
   - Meta-heuristic algorithms
   - Artificial neuron model
