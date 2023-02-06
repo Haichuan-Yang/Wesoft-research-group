@@ -16,4 +16,4 @@ Our limitations make us realize that there are many researchers who are also int
 * Secondly, we hope to create a technology communication platform to start timely communication with our peers.
 * Finally, we welcome you to join our group and expand the boundaries of technology applications together.
 
-Obviously, our group is still at an initial stage where we can only produce simple models and publish simple journal and conference papers. However, we will keep our hobby of AI alive and well.
+Obviously, our group is still at an initial stage where we can only produce simple models and publish simple journal and conference papers. However, we will keep our hobby of AI alive and well. Whether you are an expert, a student or even an amateur, we look forward to talking with you.
