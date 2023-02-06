@@ -15,5 +15,12 @@ social:
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
     url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
+education:
+  courses:
+    - institution: University of Toyama
+      year: 2023
+      course: MEng in Intelligent Information Engineering
 superuser: false
+user_groups:
+  - Researchers
 ---
