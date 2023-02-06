@@ -1,5 +1,6 @@
 ---
 title: Yang Yifei 楊逸飛
+role: MEng in Intelligent Information Engineering
 avatar_filename: avatar
 social:
   - display:
