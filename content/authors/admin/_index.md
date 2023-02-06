@@ -14,7 +14,7 @@ social:
     link: mailto:yokaisen1994@gmail.com
   - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://jp.linkedin.com/in/海川-楊-11096025b
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.jp/citations?user=L_dJgZAAAAAJ&hl=zh-CN
