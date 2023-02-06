@@ -8,4 +8,6 @@ social:
     icon_pack: fas
     icon: envelop
 superuser: false
+user_groups:
+  - Researchers
 ---
