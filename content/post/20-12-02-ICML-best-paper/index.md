@@ -4,7 +4,7 @@ date: 2020-12-02
 image:
   focal_point: top
 ---
-Thank you very much for visiting our website!
+Thank you very much for visiting our website! The following is the purpose for which our group was established.
 
 <!--more-->
 
