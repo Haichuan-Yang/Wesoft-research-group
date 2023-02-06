@@ -1,5 +1,5 @@
 ---
-title: Yifei Yang
+title: Yang Yifei 楊逸飛
 avatar_filename: avatar
 social:
   - display:
