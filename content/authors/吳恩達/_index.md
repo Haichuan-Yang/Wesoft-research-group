@@ -1,75 +1,35 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
+title: Xiaosi Li
+role: Chief System Engineer
+avatar_filename: avatar.jpg
+organizations:
+  - name: Wesoft Company Ltd.
+    url: https://wesoft.co.jp/
+superuser: false
 authors:
   - 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include evolutionary algorithms and complex systems.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Computational intelligence
+  - Data mining
+  - Mobile computing
+  - Machine learning
+  - Neural networks
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: mailto:test@example.org
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: University of Toyama
+      year: ""
+    - course: "BSc "
+      institution: Southeast University
+      year: ""
+email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiaosi Li (Member, IEEE) received the B.S. degree from Southeast University, Nanjing, China, and the D.E. degree from the University of Toyama, Toyama, Japan. He is currently working as a Chief System Engineer with Wesoft Company Ltd., Kawasaki, Japan. His current research interests include computational intelligence, data mining, mobile computing, machine learning, and neural networks for real-world applications.
