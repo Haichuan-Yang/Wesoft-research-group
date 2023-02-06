@@ -12,5 +12,7 @@ social:
     link: "mailto:"
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: Artificial Intelligence Lab., University of Toyama
 superuser: false
 ---
