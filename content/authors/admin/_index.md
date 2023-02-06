@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://github.com/Haichuan-Yang
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Tohoku University
+    url: https://www.tohoku.ac.jp/en/
 education:
   courses:
     - course: PhD in Artificial Intelligence
