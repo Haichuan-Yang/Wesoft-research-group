@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include meta-heuristic algorithms, artificial neuron
   model and complex systems.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Meta-heuristic algorithms
+  - Artificial neuron model
+  - Complex systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,7 +41,6 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
+Haichuan Yang is a research assistant professor of computational intelligence at the [Hashimoto & Arai Lab. / Kagami Lab.](http://www.ic.is.tohoku.ac.jp/ja/), Tohoku University. His research interests include meta-heuristic algorithms, artificial neuron model and complex systems. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He was a recipient of the Best Paper Award at the IEEE International Conference on Progress in Informatics and Computing, the Outstanding Academic Performance Award of IEICE, and the [Support for Pioneering Research Initiated by the Next Generation (SPRING) of JST](https://promotion-research.ctg.u-toyama.ac.jp/spring-student/yang_r4/).
