@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yokaisen1994@gmail.com
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
