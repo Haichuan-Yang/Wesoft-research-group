@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: mailto:1591688699lht@gmail.com
     icon_pack: fas
     icon: envelope
 organizations:
