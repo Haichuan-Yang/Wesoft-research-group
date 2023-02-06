@@ -8,13 +8,14 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-bio: My research interests include evolutionary algorithms and complex systems.
+bio: ""
 interests:
   - Computational intelligence
   - Data mining
   - Mobile computing
   - Machine learning
   - Neural networks
+  - Renewable energy
 social:
   - icon: envelope
     icon_pack: fas
