@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: "mailto:kt.sai@wesoft.co.jp "
     icon_pack: fas
     icon: envelope
 organizations:
