@@ -26,15 +26,15 @@ organizations:
     url: https://www.tohoku.ac.jp/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mathematical and Human System Sciences
+      institution: University of Toyama
+      year: 2023
+    - course: MEng in Intelligent Information Engineering
+      institution: University of Toyama
+      year: 2022
+    - course: BSc in Applied Chemistry
+      institution: China University of Petroleum (East China)
+      year: 2016
 email: ""
 superuser: true
 user_groups:
