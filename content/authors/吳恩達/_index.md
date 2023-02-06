@@ -1,5 +1,5 @@
 ---
-title: Xiaosi Li
+title: Xiaosi Li 李小司
 role: Chief System Engineer
 avatar_filename: avatar.jpg
 organizations:
