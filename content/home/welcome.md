@@ -12,7 +12,6 @@ design:
   background:
     image: ""
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **WeAI Research Group** has been a dynamic junior group for Artificial Intelligence research, teaching, and practice since its founding in 2023. Our current research interests include nature-inspired technologies, machine learning, and neural networks for real-world applications.
