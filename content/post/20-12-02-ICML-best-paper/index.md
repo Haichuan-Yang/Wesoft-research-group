@@ -9,3 +9,5 @@ Thank you very much for visiting our website!
 <!--more-->
 
 WeAI Research Group is dedicated to research related to artificial intelligence. As a start-up research group, we do not have sufficient computing resources, technical reserves and financial support. However, this does not prevent us from loving AI research.
+
+Our limitations make us realize that there are many researchers who are also interested in AI research who also face the dilemma of inadequate support. Therefore, our group was established to pursue the following goals.
