@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: mailto:zhangyuxin9987@gmail.com
     icon_pack: fas
     icon: envelope
 organizations:
