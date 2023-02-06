@@ -9,7 +9,7 @@ social:
       header: false
     link: mailto:yyf773906764@gmail.com
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 superuser: false
 user_groups:
   - Researchers
