@@ -21,9 +21,9 @@ social:
     link: mailto:test@example.org
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Mathematical and Human System Sciences
       institution: University of Toyama
-      year: ""
+      year: 2019
     - course: "BSc "
       institution: Southeast University
       year: ""
