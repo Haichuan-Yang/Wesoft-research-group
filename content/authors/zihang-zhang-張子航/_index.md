@@ -21,4 +21,6 @@ education:
       institution: University of Toyama
       year: 2023
 superuser: false
+user_groups:
+  - Researchers
 ---
