@@ -24,15 +24,15 @@ content:
         brightness: 0.7
         media: coders.jpg
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: 'Our limitations make us realize that there are many researchers who are also interested in AI research who also face the dilemma of inadequate support. Therefore, our group was established to pursue the following goals. First, we are committed to researching and promoting AI technologies that are applicable to low hardware conditions. Secondly, we hope to create a technology communication platform to start timely communication with our peers.Finally, we welcome you to join our group and expand the boundaries of technology applications together.'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: The most liberal and enthusiastic research group
+      content: 'Obviously, our group is still at an initial stage where we can only produce simple models and publish simple journal and conference papers. However, we will keep our hobby of AI alive and well. Whether you are an expert, a student or even an amateur, we look forward to talking with you!'
       align: right
       background:
         position: center
