@@ -15,6 +15,14 @@ social:
     link: mailto:yyf773906764@gmail.com
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: Artificial Intelligence Lab., University of Toyama
+    url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
+education:
+  courses:
+    - institution: University of Toyama
+      course: MEng in Intelligent Information Engineering
+      year: 2023
 superuser: false
 user_groups:
   - Researchers
