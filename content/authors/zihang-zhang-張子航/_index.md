@@ -13,7 +13,8 @@ social:
     icon_pack: fas
     icon: envelope
 organizations:
-  - name: MEng in Intelligent Information Engineering
+  - name: Artificial Intelligence Lab., University of Toyama
+    url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/
 education:
   courses:
     - course: MEng in Intelligent Information Engineering
