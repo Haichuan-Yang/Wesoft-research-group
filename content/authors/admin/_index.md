@@ -8,6 +8,7 @@ interests:
   - Meta-heuristic algorithms
   - Artificial neuron model
   - Complex systems
+  - Renewable energy
 social:
   - icon: envelope
     icon_pack: fas
