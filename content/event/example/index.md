@@ -8,8 +8,8 @@ url_pdf: ""
 summary: An example event.
 title: Examples
 location: Wesoft Company Ltd. & University of Toyama
-date: 2023-02-07T05:50:56.737Z
-date_end: 2024-12-31T16:00:09.761Z
+date: 2019-12-31T16:00:56.737Z
+date_end: 2019-12-31T16:00:09.761Z
 all_day: false
 event: University-Enterprise Joint Research
 event_url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
