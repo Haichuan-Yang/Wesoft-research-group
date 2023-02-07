@@ -11,6 +11,10 @@ social:
 organizations:
   - name: Wesoft Company Ltd.
     url: https://wesoft.co.jp/
+education:
+  courses:
+    - institution: Southeast University
+      course: BSc.
 superuser: false
 user_groups:
   - Partners
