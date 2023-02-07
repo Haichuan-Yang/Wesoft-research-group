@@ -7,9 +7,9 @@ slides: null
 url_pdf: ""
 summary: An example event.
 title: Renewable Energy Engineering Optimization
-location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+location: Wesoft Company Ltd., University of Toyama
+date: 2030-06-01T13:00:00.000Z
+date_end: 2030-06-01T15:00:00.000Z
 all_day: false
 event: Wowchemy Conference
 event_url: https://example.org
@@ -23,7 +23,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: null
 image:
