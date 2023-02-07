@@ -1,5 +1,5 @@
 ---
-title: Qianyu Zhu
+title: Qianyu Zhu 朱乾宇
 avatar_filename: avatar.jpg
 interests:
   - Meta-heuristic algorithms
@@ -20,5 +20,6 @@ education:
       institution: University of Toyama
       year: 2023
 superuser: false
-user_groups: []
+user_groups:
+  - Researchers
 ---
