@@ -10,8 +10,7 @@ design:
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 
----
-title:
+
 subtitle:
 widget: blank
 headless: true
