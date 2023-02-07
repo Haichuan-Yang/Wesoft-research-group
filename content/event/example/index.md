@@ -5,10 +5,10 @@ abstract: >
   optimization techniques.
 slides: null
 url_pdf: ""
-summary: Development of metaheuristic algorithms for renewable energy engineering optimization.
+summary: An example event.
 title: Renewable Energy Engineering Optimization
 location: Wesoft Company Ltd. & University of Toyama
-date: 2022-12-31T16:00:00.000Z
+date: 2023-02-07T05:50:56.737Z
 date_end: 2024-12-31T16:00:09.761Z
 all_day: false
 event: University-Enterprise Joint Research
