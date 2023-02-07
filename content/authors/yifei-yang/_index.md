@@ -1,5 +1,5 @@
 ---
-title: Yang Yifei 楊逸飛
+title: Yifei Yang 楊逸飛
 role: MEng in Intelligent Information Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include meta-heuristic algorithms, artificial neuron
