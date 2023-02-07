@@ -12,6 +12,11 @@ social:
     link: mailto:m13377973170@gmail.com
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://www.scopus.com/authid/detail.uri?authorId=57724264800
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
     url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/
