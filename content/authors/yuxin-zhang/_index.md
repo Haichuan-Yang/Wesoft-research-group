@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:zhangyuxin9987@gmail.com
+    link: mailto:z1999anita@163.com
     icon_pack: fas
     icon: envelope
 organizations:
