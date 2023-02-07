@@ -27,8 +27,6 @@ Participating Researchers:
 
 [Xiaosi Li 李小司](https://velvety-frangollo-5d54c2.netlify.app/author/xiaosi-li-%E6%9D%8E%E5%B0%8F%E5%8F%B8/)
 
+Published Journals:
 
-
-
-
-[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")
+1. Yang, H., Yu, Y., Cheng, J., Lei, Z., Cai, Z., Zhang, Z., & Gao, S. (2022). [An intelligent metaphor-free spatial information sampling algorithm for balancing exploitation and exploration](https://doi.org/10.1016/j.knosys.2022.109081). *Knowledge-Based Systems*, *250*, 109081.
