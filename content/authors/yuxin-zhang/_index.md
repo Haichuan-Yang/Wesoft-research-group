@@ -18,7 +18,7 @@ organizations:
     url: https://wesoft.co.jp/
 education:
   courses:
-    - course: master of business administration
+    - course: Master of business administration
       institution: University of Toyama
       year: 2023
     - institution: Central South University of Forestry and Technology
