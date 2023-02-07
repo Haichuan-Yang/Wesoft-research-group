@@ -1,6 +1,6 @@
 ---
 title: Yuxin Zhang 張雨馨
-role: Internship Engineer
+role: Internship Algorithm Engineer
 avatar_filename: avatar.jpg
 interests:
   - Artificial intelligence
