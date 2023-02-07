@@ -26,6 +26,8 @@ Participating Researchers:
 > [Yifei Yang 楊逸飛](https://velvety-frangollo-5d54c2.netlify.app/author/yifei-yang-%E6%A5%8A%E9%80%B8%E9%A3%9B/)
 >
 > [Xiaosi Li 李小司](https://velvety-frangollo-5d54c2.netlify.app/author/xiaosi-li-%E6%9D%8E%E5%B0%8F%E5%8F%B8/)
+>
+> [Zihang Zhang 張子航](https://velvety-frangollo-5d54c2.netlify.app/author/zihang-zhang-%E5%BC%B5%E5%AD%90%E8%88%AA/)
 
 Published Journals:
 
