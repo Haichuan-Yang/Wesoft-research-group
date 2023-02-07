@@ -1,5 +1,6 @@
 ---
 title: Qianyu Zhu 朱乾宇
+role: MEng in Intelligent Information Engineering
 avatar_filename: avatar.jpg
 interests:
   - Meta-heuristic algorithms
