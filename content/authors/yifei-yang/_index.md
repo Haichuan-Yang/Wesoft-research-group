@@ -30,4 +30,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-His research interests include meta-heuristic algorithms, artificial neuron model, large-scale optimization, [renewable energy](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)and complex systems.
+His research interests include meta-heuristic algorithms, artificial neuron model, large-scale optimization, [renewable energy](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/), and complex systems. 
