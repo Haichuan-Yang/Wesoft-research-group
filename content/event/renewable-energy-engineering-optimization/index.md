@@ -17,4 +17,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[Renewable Energy](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")
+Details are as follows: [Renewable Energy](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")[](https://github.com/Haichuan-Yang/Wesoft-research-group/blob/main/static/Renewable%20Energy.pdf "Renewable Energy.pdf")
