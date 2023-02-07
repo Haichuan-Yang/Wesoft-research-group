@@ -3,7 +3,6 @@ title: Yuxin Zhang 張雨馨
 role: Internship Algorithm Engineer
 avatar_filename: avatar.jpg
 interests:
-  - Artificial intelligence
   - Time series prediction
   - Differential evolution
   - Economics
@@ -21,4 +20,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-She received her master's degree in Management from the University of Toyama in Japan, 2022. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals. She is also interested in artificial intelligence algorithm research and is currently working as a trainee algorithm engineer at Wesoft Company Ltd. as an online intern.
+She received her master's degree in Management from the University of Toyama in Japan, 2022. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals. She is also interested in artificial intelligence algorithm research and is currently working as a trainee algorithm engineer at Wesoft Company Ltd. as an online intern. Her current research interests are time series prediction, differential evolution, economics, and marketing.[](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)
