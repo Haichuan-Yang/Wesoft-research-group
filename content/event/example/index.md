@@ -1,15 +1,15 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: >
+  The purpose of this study is to reduce the cost of renewable energy and
+  increase energy production using the latest artificial intelligence
+  optimization techniques.
 slides: null
 url_pdf: ""
 summary: An example event.
 title: Renewable Energy Engineering Optimization
-location: Wesoft Company Ltd., University of Toyama
-date: 2030-06-01T13:00:00.000Z
-date_end: 2030-06-01T15:00:00.000Z
+location: Wesoft Company Ltd. & University of Toyama
+date: 2022-12-31T16:00:00.000Z
+date_end: 2024-12-31T16:00:09.761Z
 all_day: false
 event: Wowchemy Conference
 event_url: https://example.org
