@@ -23,7 +23,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: research
+    icon: google-scholar
     link: https://www.scopus.com/authid/detail.uri?authorId=57205080922
 education:
   courses:
