@@ -5,7 +5,7 @@ abstract: The purpose of this study is to reduce the cost of renewable energy
   optimization techniques.
 location: Wesoft Company Ltd. & University of Toyama
 date: 2023-02-06T16:00:24.770Z
-date_end: 2023-12-31T16:00:12.481Z
+date_end: 2024-12-31T16:00:12.481Z
 all_day: false
 event: University-Enterprise Joint Research
 event_url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
