@@ -6,7 +6,7 @@ abstract: >
 slides: null
 url_pdf: ""
 summary: An example event.
-title: Renewable Energy Engineering Optimization
+title: Examples
 location: Wesoft Company Ltd. & University of Toyama
 date: 2023-02-07T05:50:56.737Z
 date_end: 2024-12-31T16:00:09.761Z
