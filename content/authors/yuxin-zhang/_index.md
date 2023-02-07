@@ -16,8 +16,16 @@ social:
 organizations:
   - name: Wesoft Company Ltd.
     url: https://wesoft.co.jp/
+education:
+  courses:
+    - course: master of business administration
+      institution: University of Toyama
+      year: 2023
+    - institution: Central South University of Forestry and Technology
+      course: bachelor of economics
+      year: 2021
 superuser: false
 user_groups:
   - Researchers
 ---
-Yuxin Zhang received her master's degree in Management from the University of Toyama in Japan, 2022. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals. She is also interested in artificial intelligence algorithm research and is currently working as a trainee algorithm engineer at Wesoft Company Ltd. as an online intern. Her current research interests are time series prediction, differential evolution, economics, and marketing.[](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)
+Yuxin Zhang received her master of business administration from the University of Toyama, Toyama, Japan in 2023. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals. She is also interested in artificial intelligence algorithm research and is currently working as a trainee algorithm engineer at Wesoft Company Ltd. as an online intern. Her current research interests are time series prediction, differential evolution, economics, and marketing.[](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)
