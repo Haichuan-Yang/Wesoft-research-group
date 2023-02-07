@@ -21,4 +21,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-She received her master's degree in Management from the University of Toyama in Japan. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals.
+She received her master's degree in Management from the University of Toyama in Japan, 2022. She worked as an intern in the investment and development department of [Shimao Service Group](https://www.shimaogroup.com/index.html), where she was mainly responsible for market development and writing cooperation proposals. She is also interested in artificial intelligence algorithm research and is currently working as a trainee algorithm engineer at Wesoft Corporation as an online intern.
