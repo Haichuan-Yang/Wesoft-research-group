@@ -30,7 +30,7 @@ education:
     - course: PhD in Mathematical and Human System Sciences
       institution: University of Toyama
       year: 2019
-    - course: "BSc "
+    - course: BSc .
       institution: Southeast University
       year: ""
 email: ""
