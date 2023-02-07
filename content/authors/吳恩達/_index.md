@@ -20,6 +20,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:li.xiaosi@agving.com
+  - display:
+      header: false
+    icon_pack: ai
+    icon: scholar
+    link: https://www.scopus.com/authid/detail.uri?authorId=57205080922
 education:
   courses:
     - course: PhD in Mathematical and Human System Sciences
