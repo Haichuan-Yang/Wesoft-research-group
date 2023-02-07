@@ -11,8 +11,8 @@ location: Wesoft Company Ltd. & University of Toyama
 date: 2022-12-31T16:00:00.000Z
 date_end: 2024-12-31T16:00:09.761Z
 all_day: false
-event: Wowchemy Conference
-event_url: https://example.org
+event: University-Enterprise Joint Research
+event_url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
 featured: false
 authors: []
 url_video: ""
@@ -23,7 +23,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-02-07T05:43:57.752Z
 tags: []
 projects: null
 image:
