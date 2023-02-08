@@ -1,7 +1,7 @@
 ---
 title: Shibo Dong 董詩博
 role: MEng in Intelligent Information Engineering
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 interests:
   - Meta-heuristic algorithms
 social:
