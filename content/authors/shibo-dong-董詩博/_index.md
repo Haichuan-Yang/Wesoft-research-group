@@ -10,6 +10,11 @@ social:
     link: mailto:m01811137@gmail.com
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.co.jp/citations?user=5XnGr6oAAAAJ&hl=zh-CN&authuser=1
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
 education:
