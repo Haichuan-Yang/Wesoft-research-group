@@ -18,4 +18,6 @@ education:
       course: MEng in Intelligent Information Engineering
       year: 2023
 superuser: false
+user_groups:
+  - Researchers
 ---
