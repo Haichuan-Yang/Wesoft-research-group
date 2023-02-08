@@ -29,6 +29,8 @@ image:
 ---
 Researchers:
 
+> [Xiaosi Li 李小司](https://velvety-frangollo-5d54c2.netlify.app/author/xiaosi-li-%E6%9D%8E%E5%B0%8F%E5%8F%B8/)
+>
 > [Yifei Yang 楊逸飛](https://velvety-frangollo-5d54c2.netlify.app/author/yifei-yang-%E6%A5%8A%E9%80%B8%E9%A3%9B/)
 >
 > [Haotian Li 李浩天](https://velvety-frangollo-5d54c2.netlify.app/author/haotian-li-%E6%9D%8E%E6%B5%A9%E5%A4%A9/)
@@ -37,4 +39,4 @@ Researchers:
 
 Published Journals:
 
-1. Li, X., Li, J., Yang, H., Wang, Y., & Gao, S. (2022). [Population interaction network in representative differential evolution algorithms: Power-law outperforms Poisson distribution.](https://www.sciencedirect.com/science/article/pii/S0378437122005052) *Physica A: Statistical Mechanics and its Applications*, *603*, 127764.
+1. Li, X., Li, J., Yang, H., Wang, Y., & Gao, S. (2022). [Population interaction network in representative differential evolution algorithms: Power-law outperforms Poisson distribution.](https://www.sciencedirect.com/science/article/pii/S0378437122005052) *Physica A: Statistical Mechanics and its Applications*, *603*, 127764.[](https://velvety-frangollo-5d54c2.netlify.app/author/xiaosi-li-%E6%9D%8E%E5%B0%8F%E5%8F%B8/)
