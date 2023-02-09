@@ -32,4 +32,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Jiayi Li received his B.E. degree from Beijing University of Architecture in 2020 and his M.E. degree from University of Toyama, Japan in 2023. His current research interests are in [artificial neuron models](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-application-of-dendritic-neuron-model/), [neural networks](https://velvety-frangollo-5d54c2.netlify.app/event/designing-neural-networks-based-on-dendritic-neuron-model/), and computational intelligence.
+Jiayi Li received his B.E. degree from Beijing University of Architecture in 2020 and his M.E. degree from University of Toyama, Japan in 2023. His current research interests are in **[artificial neuron models](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-application-of-dendritic-neuron-model/)**, [neural networks](https://velvety-frangollo-5d54c2.netlify.app/event/designing-neural-networks-based-on-dendritic-neuron-model/), and computational intelligence.
