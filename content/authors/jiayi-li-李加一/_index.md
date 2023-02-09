@@ -12,6 +12,11 @@ social:
     link: mailto:lijiayi212@gmail.com
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?user=EXub-h4AAAAJ&hl=zh-CN&authuser=1
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
     url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
