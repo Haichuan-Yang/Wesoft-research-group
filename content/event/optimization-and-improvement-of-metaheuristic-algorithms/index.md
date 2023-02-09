@@ -31,3 +31,13 @@ image:
 Researchers:
 
 > [All members](https://velvety-frangollo-5d54c2.netlify.app/people/)
+
+Published Journals:
+
+1. Xu, Z., Yang, H., Li, J., Zhang, X., Lu, B., & Gao, S. (2021). [Comparative study on single and multiple chaotic maps incorporated grey wolf optimization algorithms](10.1109/ACCESS.2021.3083220). *IEEE Access*, *9*, 77416-77437.
+2. Xu, Z., Gao, S., Yang, H., & Lei, Z. (2021). [SCJADE: Yet Another State‐of‐the‐Art Differential Evolution Algorithm.](https://doi.org/10.1002/tee.23340) *IEEJ Transactions on Electrical and Electronic Engineering*, *16*(4), 644-646.
+3. Yang, H., Gao, S., Wang, R. L., & Todo, Y. (2021). [A ladder spherical evolution search algorithm](https://search.ieice.org/bin/summary.php?id=e104-d_3_461). *IEICE Transactions on Information and Systems*, *104*(3), 461-464.
+4. Yang, L., Gao, S., Yang, H., Cai, Z., Lei, Z., & Todo, Y. (2021). [Adaptive chaotic spherical evolution algorithm. *Memetic Computing*](https://doi.org/10.1007/s12293-021-00341-w), *13*(3), 383-411.
+5. Li, J., Yang, L., Yi, J., Yang, H., Todo, Y., & Gao, S. (2022). [A simple but efficient ranking-based differential evolution.](https://search.ieice.org/bin/summary.php?id=e105-d_1_189) *IEICE Transactions on Information and Systems*, *105*(1), 189-192.
+6. Yang, H., Tao, S., Zhang, Z., Cai, Z., & Gao, S. (2022).[ Spatial information sampling: another feedback mechanism of realising adaptive parameter control in meta-heuristic algorithms.](https://doi.org/10.1504/IJBIC.2022.120751) *International Journal of Bio-Inspired Computation*, *19*(1), 48-58.
+7. Li, X., Wang, K., Yang, H., Tao, S., Feng, S., & Gao, S. (2022). [PAIDDE: A permutation-archive information directed differential evolution algorithm.](10.1109/ACCESS.2022.3173622) *IEEE Access*, *10*, 50384-50402.
