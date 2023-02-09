@@ -29,4 +29,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-His research interests include meta-heuristic algorithms and [complex systems](https://velvety-frangollo-5d54c2.netlify.app/event/analyzing-metaheuristic-algorithm-structures-using-population-interaction-networks/).
+His research interests include meta-heuristic algorithms and **[complex systems](https://velvety-frangollo-5d54c2.netlify.app/event/analyzing-metaheuristic-algorithm-structures-using-population-interaction-networks/)**.
