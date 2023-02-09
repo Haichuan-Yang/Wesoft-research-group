@@ -19,4 +19,4 @@ superuser: false
 user_groups:
   - Partners
 ---
-Founder and CEO of WESOFT, a Japanese IT firm that collaborates on product design and development projects with NTT, Hitachi, NRI, and other major corporations. Parallel algorithm research and application development in the field of AI
+Founder and CEO of WESOFT, a Japanese IT firm that collaborates on product design and development projects with NTT, Hitachi, NRI, and other major corporations. Parallel algorithm research and application development in the field of AI.
