@@ -23,5 +23,7 @@ education:
       institution: Beijing University of Architecture
       year: 2020
 superuser: false
+user_groups:
+  - Researchers
 ---
 Jiayi Li received his B.E. degree from Beijing University of Architecture in 2020 and his M.E. degree from University of Toyama, Japan in 2023. His current research interests are in artificial neuron models, neural networks, and computational intelligence.
