@@ -10,6 +10,7 @@ social:
     icon: envelope
 organizations:
   - name: Artificial Intelligence Lab., University of Toyama
+    url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
 education:
   courses:
     - course: MEng in Intelligent Information Engineering
