@@ -30,4 +30,4 @@ Researchers:
 
 Published Journals:
 
-Li J, Liu Z, Wang R L, et al. Dendritic Deep Residual Learning for COVID‐19 Prediction\[J]. IEEJ Transactions on Electrical and Electronic Engineering, 2023, 18(2): 297-299.
+Li J, Liu Z, Wang R L, et al. [Dendritic Deep Residual Learning for COVID‐19 Prediction](https://doi.org/10.1002/tee.23723)\[J]. IEEJ Transactions on Electrical and Electronic Engineering, 2023, 18(2): 297-299.
