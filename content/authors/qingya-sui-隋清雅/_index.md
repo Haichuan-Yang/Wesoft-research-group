@@ -8,7 +8,8 @@ social:
     link: mailto:qingyasui88@gmail.com
     icon_pack: fas
     icon: envelope
-organizations: []
+organizations:
+  - name: Artificial Intelligence Lab., University of Toyama
 education:
   courses:
     - course: MEng in Intelligent Information Engineering
