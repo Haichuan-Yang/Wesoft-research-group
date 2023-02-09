@@ -24,3 +24,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
+Her current research interest is in **[meta-heuristic algorithms](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-improvement-of-metaheuristic-algorithms/)**.
