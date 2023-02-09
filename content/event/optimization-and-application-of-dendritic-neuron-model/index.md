@@ -14,7 +14,8 @@ abstract: >-
 
   In addition to BP, the mainstream DNM optimization methods include meta-heuristic algorithms (MHAs). However, over the decades, MHAs have developed a large number of different algorithms. How to screen suitable MHAs for optimizing DNM has become a hot and challenging area of research. In this study, we classified MHAs into different clusters with different population interaction networks (PIN). The performance of DNMs optimized by different clusters of MHAs is tested in the prediction and classification tasks.
 location: WeAI Research Group & University of Toyama
-
+date: 2023-02-09T07:58:37.515Z
+date_end: 2023-02-02T07:58:37.415Z
 all_day: false
 event: Group Research
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
@@ -28,6 +29,8 @@ image:
 ---
 Researchers:
 
+> [Jiayi Li 李加一](https://velvety-frangollo-5d54c2.netlify.app/author/jiayi-li-%E6%9D%8E%E5%8A%A0%E4%B8%80/)
+>
 > [Yuxin Zhang 張雨馨](https://velvety-frangollo-5d54c2.netlify.app/author/yuxin-zhang-%E5%BC%B5%E9%9B%A8%E9%A6%A8/)
 >
 > [Yifei Yang 楊逸飛](https://velvety-frangollo-5d54c2.netlify.app/author/yifei-yang-%E6%A5%8A%E9%80%B8%E9%A3%9B/)
@@ -40,3 +43,4 @@ Published Journals:
 
 1. Wang, Z., Gao, S., Wang, J., Yang, H., & Todo, Y. (2020). [A dendritic neuron model with adaptive synapses trained by differential evolution algorithm](https://doi.org/10.1155/2020/2710561). *Computational intelligence and neuroscience*, *2020*.
 2. Yang, H., Yu, Y., Cheng, J., Lei, Z., Cai, Z., Zhang, Z., & Gao, S. (2022). [An intelligent metaphor-free spatial information sampling algorithm for balancing exploitation and exploration](https://doi.org/10.1016/j.knosys.2022.109081). *Knowledge-Based Systems*, *250*, 109081.
+3. Xu, Z., Wang, Z., Li, J., Jin, T., Meng, X., & Gao, S. (2021). [Dendritic neuron model trained by information feedback-enhanced differential evolution algorithm for classification](https://doi.org/10.1016/j.knosys.2021.107536). *Knowledge-Based Systems*, *233*, 107536.
