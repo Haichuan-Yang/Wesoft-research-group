@@ -32,4 +32,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Zihang Zhang received his B.E. degree from Wuhan Institute Of Technology, Wuhan, China in 2020, and the D.E. degree from the University of Toyama, Toyama, Japan in 2023. His current research interests are computational intelligence, neural networks, and [**renewable energ**y](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/).
+Zihang Zhang received his B.E. degree from Wuhan Institute Of Technology, Wuhan, China in 2020, and the D.E. degree from the University of Toyama, Toyama, Japan in 2023. His current research interests are **[computational intelligence](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-improvement-of-metaheuristic-algorithms/)**, neural networks, and [**renewable energ**y](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/).
