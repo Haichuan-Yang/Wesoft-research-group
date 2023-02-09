@@ -2,6 +2,9 @@
 title: Qingya Sui 隋清雅
 role: MEng in Intelligent Information Engineering
 avatar_filename: avatar.jpg
+bio: ""
+interests:
+  - Meta-heuristic algorithms
 social:
   - display:
       header: false
