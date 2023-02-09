@@ -30,4 +30,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-His research interests include meta-heuristic algorithms, **[artificial neuron model](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-application-of-dendritic-neuron-model/)**, large-scale optimization, **[renewable energy](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)**, and **[complex systems](https://velvety-frangollo-5d54c2.netlify.app/event/analyzing-metaheuristic-algorithm-structures-using-population-interaction-networks/)**.
+His research interests include **[meta-heuristic algorithms](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-improvement-of-metaheuristic-algorithms/)**, **[artificial neuron model](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-application-of-dendritic-neuron-model/)**, large-scale optimization, **[renewable energy](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)**, and **[complex systems](https://velvety-frangollo-5d54c2.netlify.app/event/analyzing-metaheuristic-algorithm-structures-using-population-interaction-networks/)**.
