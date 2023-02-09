@@ -16,4 +16,6 @@ education:
       year: 2024
 email: ""
 superuser: false
+user_groups:
+  - Researchers
 ---
