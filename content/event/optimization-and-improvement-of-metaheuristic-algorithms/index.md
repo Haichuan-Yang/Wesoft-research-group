@@ -15,8 +15,7 @@ abstract: >-
 
   According to the well-known “No-Free-Lunch Theorem”, different meta-heuristic algorithms (MHAs) have corresponding advantages and disadvantages in addressing different optimization problems. Even so, much effort is still dedicated to creating algorithms that perform well on most problems. In recent decades, researchers appear to have concluded that maintaining a balance between exploitation and exploration is critical for improving MHAs’ performance. According to the latest definition of exploitation and exploration, the term “exploitation” refers to the idea of focusing the search process on promising areas of the solution space, whereas the ability of a search algorithm to discover a diverse array of solutions spread across different regions of the search space is emphasized by the term “exploration”. However, although new attempts to adjust the balance between exploitation and exploration are constantly being made, the issue of how to efficiently balance exploitation and exploration in algorithms remains a hot area of research. 
 location: WeAI Research Group & University of Toyama
-date: 2023-02-09T11:11:05.532Z
-date_end: 2023-01-31T15:00:00.000Z
+
 all_day: false
 event: Group Research
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
