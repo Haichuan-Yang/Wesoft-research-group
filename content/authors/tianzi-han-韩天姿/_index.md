@@ -10,6 +10,9 @@ social:
     link: mailto:hantz0112@163.com
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: 神戸市外国語大学
+    url: https://www.kobe-cufs.ac.jp/
 superuser: false
 user_groups:
   - Researchers
