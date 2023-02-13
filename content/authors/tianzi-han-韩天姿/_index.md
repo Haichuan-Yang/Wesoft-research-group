@@ -1,6 +1,6 @@
 ---
 title: Tianzi Han 韩天姿
-role: Kobe City University of Foreign Studies
+role: 言語学・応用言語学博士
 avatar_filename: avatar.jpg
 interests:
   - Linguistics and applied linguistics
