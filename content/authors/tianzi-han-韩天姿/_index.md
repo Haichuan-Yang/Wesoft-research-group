@@ -1,6 +1,6 @@
 ---
 title: Tianzi Han 韩天姿
-role: 言語学・応用言語学博士在学
+role: 応用言語学博士在学
 avatar_filename: avatar.jpg
 interests:
   - Linguistics and applied linguistics
