@@ -1,5 +1,5 @@
 ---
-title: Chaofeng ZHANG 張晁逢
+title: Chaofeng Zhang 張晁逢
 role: 産業技術大学院大学 助教
 avatar_filename: avatar.jpg
 interests:
