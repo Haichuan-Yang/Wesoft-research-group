@@ -4,7 +4,7 @@ role: 応用言語学博士在学
 avatar_filename: avatar.jpg
 interests:
   - Linguistics and applied linguistics
-  - ChatGPT
+  - ChatGPT and applied linguistics
 social:
   - display:
       header: false
