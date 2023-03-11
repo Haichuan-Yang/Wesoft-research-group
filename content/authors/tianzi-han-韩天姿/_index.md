@@ -13,6 +13,11 @@ social:
 organizations:
   - name: 神戸市外国語大学
     url: https://www.kobe-cufs.ac.jp/
+education:
+  courses:
+    - institution: 神戸市外国語大学
+      course: 応用言語学博士在学 博士後期課程 在学
+      year: 2026
 superuser: false
 user_groups:
   - Researchers
