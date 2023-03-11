@@ -15,15 +15,15 @@ organizations:
     url: https://aiit.ac.jp/master_program/professor/c_zhang.html
 education:
   courses:
-    - course: 電子通信学科
-      institution: "中国江蘇省 蘇州大学 "
-      year: 2011
-    - course: 情報電子工学専攻 博士前期課程
-      institution: 室蘭工業大学
-      year: 2016
     - institution: 室蘭工業大学
       year: 2019
       course: 情報電子工学専攻 博士後期課程
+    - course: 情報電子工学専攻 博士前期課程
+      institution: 室蘭工業大学
+      year: 2016
+    - course: 電子通信学科
+      institution: "中国江蘇省 蘇州大学 "
+      year: 2011
 superuser: false
 user_groups:
   - Researchers
