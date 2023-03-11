@@ -11,7 +11,7 @@ social:
     icon: google-scholar
     link: https://scholar.google.co.jp/citations?hl=zh-CN&user=Hbi9ZnwAAAAJ
 organizations:
-  - name: 産業技術大学院大学 産業技術研究科 情報アーキテクチャコース
+  - name: 産業技術研究科 情報アーキテクチャコース
     url: https://aiit.ac.jp/master_program/professor/c_zhang.html
 education:
   courses:
