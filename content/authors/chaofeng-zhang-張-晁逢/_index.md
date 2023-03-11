@@ -26,6 +26,6 @@ education:
       year: 2011
 superuser: false
 user_groups:
-  - Researchers
+  - Instructors
 ---
 Chaofeng Zhang received the B.Eng degree in Soochow University, China, in 2011. He also received M.Eng and Ph.D. degree in Muroran Institute of Technology, Japan, in 2016 and 2019, respectively. He is currently an assistant professor in Advanced Institute of Industrial Technology (AIIT), Tokyo, Japan. His research interests include cloud computing, full-duplex communication, wireless positioning technology. He got IEEE VTS Tokyo Chapter 2016 student paper award in 2016, and got the best presentation award in A3 Annual Workshop on Next Generation Internet and Network Security. From March 2017 to April 2017, he was a visiting scholar at Soochow University, China.
