@@ -3,8 +3,8 @@ title: Tianzi Han 韩天姿
 role: 応用言語学博士在学
 avatar_filename: avatar.jpg
 interests:
-  - Linguistics and applied linguistics
-  - ChatGPT and applied linguistics
+  - 言語学・応用言語学
+  - ChatGPTと応用言語学
 social:
   - display:
       header: false
