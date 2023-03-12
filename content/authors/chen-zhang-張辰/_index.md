@@ -12,6 +12,13 @@ social:
     icon_pack: fas
     icon: envelope
     link: zc13688659773@gmail.com
+education:
+  courses:
+    - course: MEng in Intelligent Information Engineering
+      institution: University of Toyama
+      year: 2025
 superuser: false
+user_groups:
+  - Researchers
 ---
 His research interests include metaheuristic algorithms, complex systems, and neural networks.
