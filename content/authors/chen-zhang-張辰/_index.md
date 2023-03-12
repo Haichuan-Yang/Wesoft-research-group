@@ -12,6 +12,8 @@ social:
     icon_pack: fas
     icon: envelope
     link: zc13688659773@gmail.com
+organizations:
+  - name: Artificial Intelligence Lab., University of Toyama
 education:
   courses:
     - course: MEng in Intelligent Information Engineering
