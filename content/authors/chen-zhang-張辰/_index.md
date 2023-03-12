@@ -1,7 +1,7 @@
 ---
 title: Chen Zhang 張辰
 role: MEng in Intelligent Information Engineering
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 interests:
   - Meta-heuristic algorithms
   - Artificial neuron model
