@@ -16,6 +16,8 @@ social:
     link: mailto:yktodo@ec.t.kanazawa-u.ac.jp
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: 金沢大学 脳型情報処理研究室
 superuser: false
 user_groups:
   - Instructors
