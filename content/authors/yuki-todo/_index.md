@@ -1,6 +1,7 @@
 ---
 title: Yuki Todo
-avatar_filename: avatar
+role: 金沢大学 理工研究域 電子情報通信学系 准教授
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
