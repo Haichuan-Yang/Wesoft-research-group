@@ -1,6 +1,6 @@
 ---
 title: Haichuan Yang 楊海川
-role: Research Assistant Professor of Computational Intelligence
+role: 東北大学 特任助教
 avatar_filename: avatar.jpg
 bio: My research interests include meta-heuristic algorithms, artificial neuron
   model and complex systems.
