@@ -3,7 +3,9 @@ title: Chaofeng Zhang 張晁逢
 role: 産業技術大学院大学 助教
 avatar_filename: avatar.jpg
 interests:
-  - 情報ネットワーク、社会的ネットワーク、高度道路交通システム
+  - 情報ネットワーク
+  - 社会的ネットワーク
+  - 高度道路交通システム
 social:
   - display:
       header: false
