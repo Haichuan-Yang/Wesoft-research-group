@@ -1,6 +1,6 @@
 ---
 title: Zheng Tang 唐 政
-role: 富山大学大学院理工学研究部教授
+role: 富山大学大学院 理工学研究部教授
 avatar_filename: avatar.jpg
 interests:
   - ニューラルネットワーク / ハードウェアシステム / 人工知能 / 学習 / 連想 / 推論 / ファジィ推論 / 免疫的なネットワーク /
