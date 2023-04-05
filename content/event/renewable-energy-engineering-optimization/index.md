@@ -4,8 +4,7 @@ abstract: The purpose of this study is to reduce the cost of renewable energy
   and increase energy production using the latest artificial intelligence
   optimization techniques.
 location: Wesoft Company Ltd. & University of Toyama
-date: 2023-04-05T00:42:35.141Z
-date_end: 2023-04-05T00:43:47.473Z
+
 all_day: false
 event: University-Enterprise Joint Research
 event_url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
