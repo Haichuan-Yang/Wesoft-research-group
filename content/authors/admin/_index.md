@@ -39,7 +39,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Instructors
 highlight_name: false
 ---
 Haichuan Yang is a research assistant professor of computational intelligence at the [Hashimoto & Arai Lab. / Kagami Lab.](http://www.ic.is.tohoku.ac.jp/ja/), Tohoku University. His research interests include **[meta-heuristic algorithms](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-improvement-of-metaheuristic-algorithms/)**, **[artificial neuron model](https://velvety-frangollo-5d54c2.netlify.app/event/optimization-and-application-of-dendritic-neuron-model/)**,  **[complex systems](https://velvety-frangollo-5d54c2.netlify.app/event/analyzing-metaheuristic-algorithm-structures-using-population-interaction-networks/)**, and **[renewable energy](https://velvety-frangollo-5d54c2.netlify.app/event/renewable-energy-engineering-optimization/)**. 
