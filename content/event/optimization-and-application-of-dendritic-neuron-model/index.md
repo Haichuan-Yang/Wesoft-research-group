@@ -14,7 +14,8 @@ abstract: >-
 
   In addition to BP, the mainstream DNM optimization methods include meta-heuristic algorithms (MHAs). However, over the decades, MHAs have developed a large number of different algorithms. How to screen suitable MHAs for optimizing DNM has become a hot and challenging area of research. In this study, we classified MHAs into different clusters with different population interaction networks (PIN). The performance of DNMs optimized by different clusters of MHAs is tested in the prediction and classification tasks.
 location: WeAI Research Group & University of Toyama
-
+date: 2023-04-05T00:30:21.498Z
+date_end: 2023-04-05T00:33:16.508Z
 all_day: false
 event: Group Research
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
@@ -43,4 +44,5 @@ Published Journals:
 1. Wang, Z., Gao, S., Wang, J., Yang, H., & Todo, Y. (2020). [A dendritic neuron model with adaptive synapses trained by differential evolution algorithm](https://doi.org/10.1155/2020/2710561). *Computational intelligence and neuroscience*, *2020*.
 2. Yang, H., Yu, Y., Cheng, J., Lei, Z., Cai, Z., Zhang, Z., & Gao, S. (2022). [An intelligent metaphor-free spatial information sampling algorithm for balancing exploitation and exploration](https://doi.org/10.1016/j.knosys.2022.109081). *Knowledge-Based Systems*, *250*, 109081.
 3. Xu, Z., Wang, Z., Li, J., Jin, T., Meng, X., & Gao, S. (2021). [Dendritic neuron model trained by information feedback-enhanced differential evolution algorithm for classification](https://doi.org/10.1016/j.knosys.2021.107536). *Knowledge-Based Systems*, *233*, 107536.
-4. Yang Y, Li X, Li H, Zhang C, Todo Y, Yang H. [Yet Another Effective Dendritic Neuron Model Based on the Activity of Excitation and Inhibition.](https://www.mdpi.com/2227-7390/11/7/1701) Mathematics. 2023; 11(7):1701.  [Code](https://github.com/louiseklocky/DNM.git)
+4. Yang Y, Li X, Li H, Zhang C, Todo Y, Yang H. [Yet Another Effective Dendritic Neuron Model Based on the Activity of Excitation and Inhibition.](https://www.mdpi.com/2227-7390/11/7/1701) *Mathematics*. 2023; 11(7):1701.  [Code](https://github.com/louiseklocky/DNM.git)
+5. Zhang Y, Yang Y, Li X, Yuan Z, Todo Y, Yang H. [A Dendritic Neuron Model Optimized by Meta-Heuristics with a Power-Law-Distributed Population Interaction Network for Financial Time-Series Forecasting.](https://www.mdpi.com/2227-7390/11/5/1251) *Mathematics*. 2023; 11(5):1251. [Code](https://github.com/Haichuan-Yang/Dendritic-neuron-model-for-financial-time-series-forecasting)
