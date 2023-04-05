@@ -14,8 +14,7 @@ abstract: In the real life, many people and things have complex relationships.
   networks as one kind of tools can analyze the essence of research objectives
   and improve their robustness.
 location: WeAI research group & University of Toyama
-date: 2023-04-05T00:38:56.775Z
-date_end: 2023-04-05T00:41:47.604Z
+
 all_day: false
 event: Group Projects
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
