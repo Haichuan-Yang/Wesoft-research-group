@@ -24,7 +24,7 @@ social:
       header: false
     icon_pack: ai
     icon: google-scholar
-    link: https://www.scopus.com/authid/detail.uri?authorId=57205080922
+    link: https://scholar.google.co.jp/citations?user=QzROvagAAAAJ&hl=zh-CN
 education:
   courses:
     - course: PhD in Mathematical and Human System Sciences
