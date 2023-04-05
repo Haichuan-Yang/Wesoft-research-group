@@ -11,8 +11,7 @@ abstract: >-
 
   At present, we use ResNet, which is very powerful in deep learning, to combine with DNM to design DResNet with stronger performance. DResNet has shown powerful ability in COVID-19 detection problems. It can accurately detect patients with COVID-19 with over 98% accuracy. In the future, we will realize the use of DNM to compose more complex neural networks and apply them to various hard-to-solve practical problems.
 location: WeAI Research Group & University of Toyama
-date: 2023-04-05T00:15:54.162Z
-date_end: 2023-04-05T00:21:05.752Z
+
 all_day: false
 event: Group Research
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
