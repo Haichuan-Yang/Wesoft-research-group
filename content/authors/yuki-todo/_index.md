@@ -16,6 +16,11 @@ social:
     link: mailto:yktodo@ec.t.kanazawa-u.ac.jp
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?user=PfjlE2UAAAAJ&hl=zh-CN
 organizations:
   - name: 脳型情報処理研究室
 superuser: false
