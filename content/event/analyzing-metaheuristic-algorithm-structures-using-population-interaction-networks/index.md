@@ -14,7 +14,8 @@ abstract: In the real life, many people and things have complex relationships.
   networks as one kind of tools can analyze the essence of research objectives
   and improve their robustness.
 location: WeAI research group & University of Toyama
-
+date: 2023-07-04T07:16:17.008Z
+date_end: 2023-07-04T07:16:17.728Z
 all_day: false
 event: Group Projects
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
@@ -43,3 +44,4 @@ Published Journals:
 1. Li, X., Li, J., Yang, H., Wang, Y., & Gao, S. (2022). [Population interaction network in representative differential evolution algorithms: Power-law outperforms Poisson distribution.](https://www.sciencedirect.com/science/article/pii/S0378437122005052) *Physica A: Statistical Mechanics and its Applications*, *603*, 127764.[](https://velvety-frangollo-5d54c2.netlify.app/author/xiaosi-li-%E6%9D%8E%E5%B0%8F%E5%8F%B8/)
 2. Zhang Y, Yang Y, Li X, Yuan Z, Todo Y, Yang H. [A Dendritic Neuron Model Optimized by Meta-Heuristics with a Power-Law-Distributed Population Interaction Network for Financial Time-Series Forecasting.](https://www.mdpi.com/2227-7390/11/5/1251) *Mathematics*. 2023; 11(5):1251. [Code](https://github.com/Haichuan-Yang/Dendritic-neuron-model-for-financial-time-series-forecasting)
 3. Yang, H., Gao, S., Lei, Z., Li, J., Yu, Y., & Wang, Y. (2023). [An improved spherical evolution with enhanced exploration capabilities to address wind farm layout optimization problem.](https://www.sciencedirect.com/science/article/pii/S0952197623003822) *Engineering Applications of Artificial Intelligence*, 123, 106198.
+4. Yang, Y.; Tao, S.; Yang, H.; Yuan, Z.; Tang, Z. [Dynamic Complex Network, Exploring Differential Evolution Algorithms from Another Perspective](https://www.mdpi.com/2227-7390/11/13/2979). *Mathematics* **2023**, *11*, 2979. https://doi.org/10.3390/math11132979 [Code](https://github.com/louiseklocky/PIN)
