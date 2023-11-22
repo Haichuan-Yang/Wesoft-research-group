@@ -4,11 +4,12 @@ abstract: The purpose of this study is to reduce the cost of renewable energy
   and increase energy production using the latest artificial intelligence
   optimization techniques.
 location: Wesoft Company Ltd. & University of Toyama
-
+date: 2023-11-22T02:46:31.886Z
+date_end: 2023-11-22T02:49:31.806Z
 all_day: false
 event: University-Enterprise Joint Research
 event_url: http://enghp.eng.u-toyama.ac.jp/labs/ii07/#top
-publishDate: 2023-02-07T05:53:12.480Z
+publishDate: 2023-04-01T02:48:00.000Z
 draft: false
 featured: false
 image:
@@ -33,3 +34,5 @@ Published Journals:
 1. Yang, H., Yu, Y., Cheng, J., Lei, Z., Cai, Z., Zhang, Z., & Gao, S. (2022). [An intelligent metaphor-free spatial information sampling algorithm for balancing exploitation and exploration](https://doi.org/10.1016/j.knosys.2022.109081). *Knowledge-Based Systems*, *250*, 109081.
 2. Yang, H., Gao, S., Lei, Z., Li, J., Yu, Y., & Wang, Y. (2023). [An improved spherical evolution with enhanced exploration capabilities to address wind farm layout optimization problem.](https://www.sciencedirect.com/science/article/pii/S0952197623003822) *Engineering Applications of Artificial Intelligence*, 123, 106198.
 3. Lei, Z., Gao, S., Zhang, Z., Yang, H., & Li, H. (2023). [A Chaotic Local Search-Based Particle Swarm Optimizer for Large-Scale Complex Wind Farm Layout Optimization.](https://www.ieee-jas.net/en/article/id/7cfe694d-d190-4624-9e1a-b1b1799d7941) *IEEE/CAA Journal of Automatica Sinica*, 10(5), 1-13.
+4. Yu, Y., Zhang, T., Lei, Z., Wang, Y., Yang, H., & Gao, S. (2023). [A chaotic local search-based LSHADE with enhanced memory storage mechanism for wind farm layout optimization.](https://doi.org/10.1016/j.asoc.2023.110306) *Applied Soft Computing*, *141*, 110306.
+5. Zhang, Z., Yu, Q., Yang, H., Li, J., Cheng, J., & Gao, S. (2024). [Triple-layered chaotic differential evolution algorithm for layout optimization of offshore wave energy converters.](https://doi.org/10.1016/j.eswa.2023.122439) *Expert Systems with Applications*, *239*, 122439.
