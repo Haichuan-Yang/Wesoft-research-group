@@ -15,7 +15,8 @@ abstract: >-
 
   According to the well-known “No-Free-Lunch Theorem”, different meta-heuristic algorithms (MHAs) have corresponding advantages and disadvantages in addressing different optimization problems. Even so, much effort is still dedicated to creating algorithms that perform well on most problems. In recent decades, researchers appear to have concluded that maintaining a balance between exploitation and exploration is critical for improving MHAs’ performance. According to the latest definition of exploitation and exploration, the term “exploitation” refers to the idea of focusing the search process on promising areas of the solution space, whereas the ability of a search algorithm to discover a diverse array of solutions spread across different regions of the search space is emphasized by the term “exploration”. However, although new attempts to adjust the balance between exploitation and exploration are constantly being made, the issue of how to efficiently balance exploitation and exploration in algorithms remains a hot area of research. 
 location: WeAI Research Group & University of Toyama
-
+date: 2023-11-22T02:49:47.359Z
+date_end: 2023-11-22T02:53:31.254Z
 all_day: false
 event: Group Research
 event_url: https://velvety-frangollo-5d54c2.netlify.app/
@@ -40,3 +41,5 @@ Published Journals:
 5. Li, J., Yang, L., Yi, J., Yang, H., Todo, Y., & Gao, S. (2022). [A simple but efficient ranking-based differential evolution.](https://search.ieice.org/bin/summary.php?id=e105-d_1_189) *IEICE Transactions on Information and Systems*, *105*(1), 189-192.
 6. Yang, H., Tao, S., Zhang, Z., Cai, Z., & Gao, S. (2022).[ Spatial information sampling: another feedback mechanism of realising adaptive parameter control in meta-heuristic algorithms.](https://doi.org/10.1504/IJBIC.2022.120751) *International Journal of Bio-Inspired Computation*, *19*(1), 48-58.
 7. Li, X., Wang, K., Yang, H., Tao, S., Feng, S., & Gao, S. (2022). [PAIDDE: A permutation-archive information directed differential evolution algorithm.](10.1109/ACCESS.2022.3173622) *IEEE Access*, *10*, 50384-50402.
+8. Zhang, B., Yang, H., Zheng, T., Wang, R. L., & Gao, S. (2023). [A non-revisiting equilibrium optimizer algorithm.](https://search.ieice.org/bin/summary.php?id=e106-d_3_365) *IEICE TRANSACTIONS on Information and Systems*, *106*(3), 365-373.
+9. Li, H., Yang, H., Zhang, B., Zhang, H., & Gao, S. (2023). [Swarm Exploration Mechanism-Based Distributed Water Wave Optimization.](https://link.springer.com/article/10.1007/s44196-023-00248-z) *International Journal of Computational Intelligence Systems*, *16*(1), 1-26.
