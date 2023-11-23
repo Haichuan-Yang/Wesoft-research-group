@@ -23,8 +23,10 @@ social:
     icon_pack: fab
     link: https://github.com/Haichuan-Yang
 organizations:
-  - name: Tohoku University
+  - name: Tohoku University （2023.4-2023.9）
     url: https://www.tohoku.ac.jp/en/
+  - name: Tokushima University （2023.10-）
+    url: https://www.tokushima-u.ac.jp/
 education:
   courses:
     - course: PhD in Mathematical and Human System Sciences
@@ -36,7 +38,7 @@ education:
     - course: BSc in Applied Chemistry
       institution: China University of Petroleum (East China)
       year: 2016
-email: ""
+email: yokaisen1994@gmail.com
 superuser: true
 user_groups:
   - Instructors
